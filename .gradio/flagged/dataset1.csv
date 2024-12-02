@@ -1,0 +1,2 @@
+User,Password,Host,Database Name,SQL Query,output,timestamp
+user,Jayesh@91,localhost,pizzahut,How Many orders we get and how much money we earn?,Error: 'ChatWithSQL' object has no attribute 'message',2024-11-28 19:40:16.695965
