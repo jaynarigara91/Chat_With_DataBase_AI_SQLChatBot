@@ -1,8 +1,8 @@
-# **SmartSQLBot**: - Intelligent SQL Database Query Assistant using LangChain And RAG"
+# **SmartSQLBot**: - Intelligent SQL Database Query Assistant using LangChain"
 
 Welcome to **SmartSQLBot**! This system allows you to interact with your SQL database using a natural language chat interface. By entering your database credentials (user, password, host, and database name), you can query the database and receive insightful responses based on the SQL data.
 
-This project leverages **Retrieval-Augmented Generation (RAG)**, combining **LangChain** for database interaction and **OpenAI's GPT-3.5** for intelligent natural language processing. The user-friendly **Gradio** interface makes it simple and intuitive to interact with the system.
+This project leverages **LangChain** for database interaction and **OpenAI's GPT-3.5** for intelligent natural language processing. The user-friendly **Gradio** interface makes it simple and intuitive to interact with the system.
 
 ## 🚀 Project Overview
 **SmartSQLBot** is a conversational system designed to interact with SQL databases. It processes user queries, retrieves relevant data from the database, and generates responses in natural language. The integration of RAG enhances the system's ability to retrieve and generate accurate responses by combining database queries with generative AI.
@@ -12,14 +12,12 @@ https://github.com/user-attachments/assets/9673cc20-4418-4813-81d7-758dfdfe45ed
 
 
 ### Key Features
-- **Retrieval-Augmented Generation (RAG)**: Combines database retrieval with OpenAI's GPT-3.5 for accurate query responses.
 - **Natural Language Querying**: Use conversational queries to interact with the database.
 - **Gradio Interface**: A user-friendly web interface for inputting queries and displaying responses.
 - **SQL Database Integration**: Supports MySQL and other SQL databases.
 
 ## 🎯 Detailed Features
 1. **Conversational Database Querying**: Enables users to interact with SQL databases using natural language.
-2. **RAG-Based Query Processing**: Retrieves relevant information from the database and augments it with generative AI responses.
 3. **Secure Database Credentials Input**: Users can securely input database credentials for interaction.
 4. **LangChain and OpenAI Integration**: Seamlessly integrates LangChain for database connectivity and OpenAI's GPT-3.5 for response generation.
 5. **Interactive Gradio Interface**: Provides an intuitive interface for smooth user interaction.
@@ -28,7 +26,6 @@ https://github.com/user-attachments/assets/9673cc20-4418-4813-81d7-758dfdfe45ed
 - **Python**: Core programming language for the project.
 - **OpenAI GPT-3.5**: For generating responses to user queries.
 - **LangChain**: For SQL database interaction.
-- **Retrieval-Augmented Generation (RAG)**: Enhances query response accuracy by combining data retrieval and generation.
 - **Gradio**: For building a responsive web interface.
 
 ## 📂 Project Structure
